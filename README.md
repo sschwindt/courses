@@ -1,2 +1,10 @@
-# courses
-Lecture material
+# Digital Methods in Water Resources Engineering and Research (3 ECTS)
+
+The lecture is held at the University of Stuttgart and is open to Master and PhD students of the *BAU*, *UMW* and *WAREM* courses. The course requires enthusiasm for cutting-edge technology and hydraulic engineering.
+
+## Motivation
+The ever-increasing performance and quantity of measuring instruments produces more and more data. Desk-top and office applications offer straightforward visualizations of data, but large amounts of data can hardly be analyzed efficiently with such software. This is the case, for example, with analyses of real-time measurements, geospatial data products and numerical modelling. With the challenge of processing and meaningful interpretation of such often multidimensional data, powerful, high-level and easy-to-learn programming languages have grown rapidly over the last two decades. The documentation and presentation of data analyses as well as code sharing within teams is another challenge in modern work environments. In preparation for increasingly digitalized workplaces, students learn in this course to share resources with the version-control sys-tem git and to develop object-oriented algorithms with the high-level flagship programming language Python. The applications focus primarily, but not exclusively, on water resources engineering, research and geoscience.
+
+## Content and Objectives
+The course introduces the version-control system git and the programming language Python 3. Students learn in this course to use programming methods for engineering tasks, data processing including basic statistical evaluations, and geospatial analyses. Practice-oriented exercises (assignments) guide through the programmatic solution to typical challenges in hydraulic engineering such as sediment transport calculations. The communication between efficient algorithms and typical spreadsheet (office) programs is presented and part of the exercises. The course additionally covers data import, manipulation (calculation of statistics) and export. The last part of the course introduces geospatial programming methods and data analyses.
+
